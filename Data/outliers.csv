@@ -1,0 +1,781 @@
+,account_name,Scope_3_emissions_type,Year,Scope_3_emissions_amount,z_scores
+0,3i Group,Waste generated in operations,2017,116.0,2.5252175924302867
+1,Abertis Infraestructuras,Waste generated in operations,2016,96933.0,2.9864842182183757
+2,Abbott Laboratories,Capital goods,2020,2860000.0,2.545047977221984
+3,Abbott Laboratories,Fuel-and-energy-related activities (not included in Scope 1 or 2),2013,595000.0,2.7625121291981576
+4,A2A,Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,1643777.0,2.6420486981799405
+5,ACC,Employee commuting,2023,9411.12,2.810764976967656
+6,ACC,Upstream transportation and distribution,2023,2284778.87,3.1359021342154043
+7,ACC,Downstream transportation and distribution,2023,4408602.26,3.14362198772681
+8,ACCIONA S.A.,End of life treatment of sold products,2016,870.0,2.966822238860399
+9,ACERINOX,Business travel,2015,3312.0,2.552699435391178
+10,"Aeon Co., Ltd.",Fuel-and-energy-related activities (not included in Scope 1 or 2),2013,4540237.0,3.1616982594644516
+11,"Aeon Co., Ltd.",Upstream transportation and distribution,2016,254421.0,2.5743682781602657
+12,"Aeon Co., Ltd.",Investments,2014,83421.0,2.8956988051977617
+13,"Aeon Co., Ltd.",Use of sold products,2016,486764.0,2.8558443665485127
+14,"Advanced Micro Devices, Inc",Employee commuting,2023,33247.0,2.77955746977683
+15,Air France - KLM,Purchased goods and services,2022,3118823.0,2.6139771957137174
+16,Air France - KLM,Upstream leased assets,2021,30000.0,2.8284271247461903
+17,"Air Products & Chemicals, Inc.",Investments,2015,15600000.0,2.991214286479167
+18,Akamai Technologies Inc,Fuel-and-energy-related activities (not included in Scope 1 or 2),2019,35301.7,2.713010965872365
+19,Akamai Technologies Inc,Upstream transportation and distribution,2014,22378.0,2.8996689903067425
+20,ALPLA,Business travel,2023,5252.0,2.8637078385825925
+21,Amer Sports,Waste generated in operations,2021,997920.0,3.162268971525337
+22,Amer Sports,Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,10688.0,2.672092579745698
+23,Ameren Corporation,Purchased goods and services,2022,1575053.0,2.9715092886874976
+24,Anglo American Platinum,Purchased goods and services,2023,1268400.0,2.9938338671601885
+25,Antofagasta,Purchased goods and services,2023,3232187.0,3.085700413176725
+26,Antofagasta,Downstream transportation and distribution,2023,244111.0,3.161992842655441
+27,"Asahi Group Holdings, Ltd.",Capital goods,2018,313678.0,2.6807116199970107
+28,Asahi Kasei Corporation,Business travel,2020,63750.0,2.658720595483425
+29,Asahi Kasei Corporation,Purchased goods and services,2016,17105538.0,2.9781081121806507
+30,Astellas Pharma Inc.,Upstream transportation and distribution,2023,16528.0,2.9955610762034977
+31,ASUSTeK Computer Inc,Business travel,2015,122338.0,2.7780605867654415
+32,AT&T Inc.,Purchased goods and services,2023,6100783.0,2.8746861412762335
+33,AT&T Inc.,Capital goods,2023,3209432.0,2.9683134624466496
+34,AT&T Inc.,Upstream transportation and distribution,2023,714031.0,2.9113052489439477
+35,Atlantia,Business travel,2022,15125.0,2.799881835258912
+36,"Automatic Data Processing, Inc.",Employee commuting,2019,995748.11,2.9721689750583384
+37,Banco Bradesco S/A,Waste generated in operations,2013,35955.6,2.837729431020299
+38,Banco Bradesco S/A,Upstream transportation and distribution,2013,144687.35,2.784881776614114
+39,Banco do Brasil S/A,Downstream transportation and distribution,2014,25587.58,2.64521144063703
+40,Banque Cantonale Vaudoise,Capital goods,2014,960.0,2.969739673359747
+41,BNY Mellon,Capital goods,2018,104930.0,2.543095744537995
+42,BNY Mellon,Upstream transportation and distribution,2014,15990.0,3.1173197349136057
+43,Bankinter,Waste generated in operations,2015,43.66,2.851786082289737
+44,Baxter International Inc.,Purchased goods and services,2023,1802000.0,2.9286277521064448
+45,BCE Inc.,End of life treatment of sold products,2014,200.0,2.7433696751780037
+46,Bendigo and Adelaide Bank,Business travel,2013,5861.97,2.910282764742794
+47,Bic,Fuel-and-energy-related activities (not included in Scope 1 or 2),2019,1200000.0,3.161428247581229
+48,Bloomberg,Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,4856.19,2.8284271247461903
+49,Bloomberg,Downstream transportation and distribution,2013,25064.16,2.6369295020209935
+50,BMW AG,Upstream transportation and distribution,2023,2274178.0,2.6042609699017767
+51,Bouygues,Capital goods,2014,11882300.0,2.999184382120869
+52,Bouygues,Fuel-and-energy-related activities (not included in Scope 1 or 2),2014,1221000.0,2.8620925748468227
+53,Braskem S/A,Employee commuting,2018,300823.27,3.1542307250697874
+54,Braskem S/A,Upstream transportation and distribution,2016,3068806.7,2.9018543680131703
+55,Bristol-Myers Squibb,Purchased goods and services,2017,144900000.0,2.899129669665998
+56,Bristol-Myers Squibb,Fuel-and-energy-related activities (not included in Scope 1 or 2),2017,4376000.0,2.645149642289509
+57,Bristol-Myers Squibb,Upstream transportation and distribution,2017,24960000.0,2.6055967219190515
+58,British American Tobacco,Waste generated in operations,2013,14244.0,2.562177254878294
+59,British Land Company,Downstream leased assets,2015,7481150.0,3.1343493264990676
+60,BT Group,End of life treatment of sold products,2014,6197.0,2.88977623577744
+61,Bunzl plc,Business travel,2023,23033.0,2.8430441753290507
+62,C&C GROUP PLC,Waste generated in operations,2020,2933.0,2.5152949421780644
+63,C&C GROUP PLC,Upstream transportation and distribution,2023,48698.0,2.6153609369563178
+64,C&C GROUP PLC,Downstream transportation and distribution,2023,37819.0,2.564567959233298
+65,Canon Inc.,Downstream transportation and distribution,2014,66121.0,2.5448704563399915
+66,Canon Inc.,Processing of sold products,2014,3216.0,2.986647079656721
+67,Canon Inc.,End of life treatment of sold products,2013,292000.0,2.6181455202463604
+68,"CBRE Group, Inc.",Business travel,2020,41467.0,2.666078310317085
+69,"CBRE Group, Inc.",Purchased goods and services,2023,9987962.0,2.643508200964445
+70,Casino Guichard-Perrachon,Employee commuting,2018,600000.0,2.6317519975041157
+71,Casino Guichard-Perrachon,Downstream transportation and distribution,2019,6000000.0,2.503709544913568
+72,CCL Industries,Waste generated in operations,2019,239897.22,2.9552832263441347
+73,CCL Industries,Upstream transportation and distribution,2022,704451.0,2.771909200402559
+74,CEMEX,Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,2659410.27,2.7059659118273585
+75,Centrica,Waste generated in operations,2015,226582.0,2.9723594072336343
+76,Cermaq Group ASA,Purchased goods and services,2014,9022298.0,3.119967196587773
+77,China Steel Corporation,Purchased goods and services,2013,677719.0,2.8761803752295307
+78,China Steel Corporation,Investments,2015,40773993.0,2.6782686509319755
+79,China Steel Corporation,End of life treatment of sold products,2022,52283.0,2.713141129444596
+80,Companhia Energetica Minas Gerais - CEMIG,Upstream transportation and distribution,2023,33012.14,3.153301892745748
+81,Cia. Brasileira de Distribuicao (CBD) Grupo Pao de Acucar,Waste generated in operations,2018,121028620297.0,2.999999999997752
+82,Cia. Brasileira de Distribuicao (CBD) Grupo Pao de Acucar,Business travel,2018,2339088.0,3.1567416566929376
+83,Cia. Brasileira de Distribuicao (CBD) Grupo Pao de Acucar,Purchased goods and services,2018,9869657971.0,2.6457510086300275
+84,Cia. Brasileira de Distribuicao (CBD) Grupo Pao de Acucar,Upstream transportation and distribution,2021,36943060.0,2.6457416094748574
+85,"Cisco Systems, Inc.",Upstream transportation and distribution,2023,835024.0,2.557516536806935
+86,Ciena Corp.,Waste generated in operations,2022,2690.0,2.6277458684989448
+87,City Developments Limited,Purchased goods and services,2023,48001.32,2.9791451500644466
+88,CMS Energy Corporation,Business travel,2019,77012.0,3.137914978470468
+89,Colbun SA,Employee commuting,2023,11695.0,2.933447810284375
+90,Colbun SA,Fuel-and-energy-related activities (not included in Scope 1 or 2),2021,1712969.0,3.1620132341776293
+91,Colbun SA,Upstream transportation and distribution,2018,327.22,2.9682111392347954
+92,Comerica Incorporated,Other (downstream),2016,499.0,2.6273068796599874
+93,Compal Electronics,Business travel,2023,8313.666,2.9208754207465923
+94,Compal Electronics,Employee commuting,2023,20400.0,2.6456143150792193
+95,CPFL Energia SA,Employee commuting,2023,2272.66,2.7080107096677364
+96,Crest Nicholson PLC,Waste generated in operations,2023,262.0,3.1501103843655276
+97,CaixaBank,Waste generated in operations,2023,1783.2,3.145516238815625
+98,Cummins Inc.,Upstream transportation and distribution,2023,2009195.0,2.893124380829437
+99,Cummins Inc.,Downstream leased assets,2013,93137.0,2.9760156373981
+100,CVS Health,Business travel,2020,106796.09,3.0035936412102466
+101,Daewoo E&C,Business travel,2014,3778.0,2.7789270216495927
+102,"Dai Nippon Printing Co., Ltd.",Employee commuting,2023,23708.0,2.614610940372459
+103,"Dai Nippon Printing Co., Ltd.",End of life treatment of sold products,2013,695000.0,2.8097129610921554
+104,"Daikin Industries, Ltd.",Capital goods,2023,718361.0,2.5217358369713994
+105,"Daiichi Sankyo Co., Ltd.",Waste generated in operations,2013,17078.0,2.811338786432497
+106,"Daiichi Sankyo Co., Ltd.",Purchased goods and services,2023,1892504.0,3.0467365789096923
+107,"Daiichi Sankyo Co., Ltd.",Employee commuting,2023,9587.0,3.108017755602319
+108,"Daiichi Sankyo Co., Ltd.",Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,35133.0,3.07574465091639
+109,"Daiichi Sankyo Co., Ltd.",Upstream transportation and distribution,2023,46640.0,3.065062714868359
+110,Daimler AG,Upstream transportation and distribution,2021,900000.0,2.597723869512373
+111,Daimler AG,Downstream transportation and distribution,2021,1200000.0,2.522247192337867
+112,"Daiwa House Industry Co., Ltd.",Employee commuting,2023,13407.816,2.8454003150600715
+113,Darfon Electronics Corp,Purchased goods and services,2016,5322568.0,2.8898069507011073
+114,Deutsche Börse AG,Purchased goods and services,2023,97752.0,2.6457502095052985
+115,Diageo Plc,Downstream transportation and distribution,2015,399348.0,2.5963229093473315
+116,Discovery Holdings Ltd,Waste generated in operations,2013,880.0,2.642517702667679
+117,Discovery Holdings Ltd,Upstream transportation and distribution,2013,405.0,2.626327012405978
+118,DTE Energy Company,Other (upstream),2021,8915995.0,2.8279345217050103
+119,E.ON SE,Business travel,2013,71881.0,2.9160287807576624
+120,E.ON SE,Employee commuting,2013,129291.0,2.9757446612910567
+121,Ecolab Inc.,Waste generated in operations,2014,85160.0,2.8066545281290667
+122,Ecolab Inc.,Fuel-and-energy-related activities (not included in Scope 1 or 2),2014,199732.0,2.569293540433367
+123,Eaton Corporation,Upstream transportation and distribution,2013,52254000.0,2.8284094945646583
+124,Eaton Corporation,Downstream transportation and distribution,2013,42753000.0,2.828396152583903
+125,EDP - Energias do Brasil S.A.,Business travel,2021,556514.0,3.162260363422744
+126,EDP - Energias de Portugal S.A.,Purchased goods and services,2014,7164232.0,2.9759399519123027
+127,EDP - Energias de Portugal S.A.,Employee commuting,2021,22736.0,2.7790091152261285
+128,Electrolux,Waste generated in operations,2020,329000.0,3.1543230941008815
+129,Elekta,Employee commuting,2019,463583.0,2.6455552247796454
+130,Elisa Oyj,Purchased goods and services,2013,202877.0,2.8536847205031637
+131,Elisa Oyj,Capital goods,2013,181536.0,3.041218379345662
+132,Elisa Oyj,End of life treatment of sold products,2013,9247.0,3.1443920422869374
+133,ENAGAS,Employee commuting,2016,12177.0,2.973180261450549
+134,ENAGAS,Upstream transportation and distribution,2023,788130.0,2.630014618232131
+135,ENEL SpA,Fuel-and-energy-related activities (not included in Scope 1 or 2),2022,35205198.0,2.994203664186062
+136,Endesa,Business travel,2013,454706.61,2.567443442489973
+137,Ericsson,Upstream transportation and distribution,2020,3000000.0,2.9989155155807707
+138,Ericsson,Downstream transportation and distribution,2013,275000.0,2.531711696995625
+139,Ericsson,End of life treatment of sold products,2020,400000.0,2.982507121525173
+140,Exxaro Resources Ltd,Purchased goods and services,2013,225411.0,3.157574190406344
+141,Exxaro Resources Ltd,Upstream transportation and distribution,2013,438287.0,3.1606916698301015
+142,Exxaro Resources Ltd,Investments,2019,364250074.0,3.161941707323065
+143,Firstrand Limited,Fuel-and-energy-related activities (not included in Scope 1 or 2),2016,11599.49,2.537729799273838
+144,FP Corporation,Business travel,2023,2795.0,2.65996005107687
+145,FP Corporation,Employee commuting,2023,1693.0,2.9342547272826303
+146,FP Corporation,Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,29724.0,2.8438173817550134
+147,Orange,Waste generated in operations,2022,28000.0,2.637509679564943
+148,Orange,Fuel-and-energy-related activities (not included in Scope 1 or 2),2022,1072000.0,2.731667422707636
+149,"Fuji Electric Co., Ltd.",Capital goods,2023,241367.0,2.5580256088660267
+150,"Fuji Electric Co., Ltd.",Fuel-and-energy-related activities (not included in Scope 1 or 2),2014,311156.0,3.1409696648609464
+151,Fujikura Ltd.,Waste generated in operations,2023,4765.0,2.67514450441668
+152,Fujikura Ltd.,Purchased goods and services,2023,1225002.0,2.9461713625434234
+153,Fujikura Ltd.,Employee commuting,2023,13036.0,2.940668390718415
+154,Fujikura Ltd.,Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,41749.0,2.8034932643545254
+155,Fujikura Ltd.,Upstream transportation and distribution,2023,75509.0,2.568948273270919
+156,Fujikura Ltd.,End of life treatment of sold products,2023,67898.0,2.6121277714041793
+157,FUJIFILM Holdings Corporation,Upstream transportation and distribution,2023,240000.0,2.8234597353507915
+158,"Furukawa Electric Co., Ltd.",Business travel,2023,12203.0,2.585027500677543
+159,Galp Energia SA,Business travel,2019,11149.0,2.7834762782998372
+160,Gap Inc.,Purchased goods and services,2018,17094962.0,2.5169674896575875
+161,Gap Inc.,Upstream transportation and distribution,2022,4429802.0,3.1209937084304205
+162,Gecina,Downstream leased assets,2020,178333.389,2.90924703369837
+163,General Mills Inc.,Waste generated in operations,2019,212000.0,2.556334534111996
+164,General Motors Company,Employee commuting,2023,510011.0,2.9632490111161145
+165,General Motors Company,Capital goods,2015,12117194.0,2.5888412700120806
+166,General Motors Company,Processing of sold products,2023,2831687.0,2.9991784356071496
+167,General Motors Company,Downstream leased assets,2023,42793.0,2.8109256398344127
+168,General Motors Company,Franchises,2023,1181771.0,2.5076075512785794
+169,General Electric Company,Investments,2014,148700000.0,2.979953675287139
+170,Givaudan SA,Downstream transportation and distribution,2023,87785.0,2.700825384745528
+171,Goldman Sachs Group Inc.,Waste generated in operations,2016,3622.0,2.660418534048728
+172,"Alphabet, Inc.",Purchased goods and services,2018,747564.0,2.8284271247461903
+173,Great Portland Estates,Waste generated in operations,2023,37.0,2.50828650505116
+174,GRIFOLS,Upstream transportation and distribution,2023,216061.7,2.8110074898319364
+175,GRIFOLS,End of life treatment of sold products,2016,38158.0,2.8642613378981476
+176,Hannover Rück SE,Waste generated in operations,2023,41.61,2.6164478070359496
+177,Hannover Rück SE,Fuel-and-energy-related activities (not included in Scope 1 or 2),2022,866.66,2.574930999015169
+178,"The Hartford Financial Services Group, Inc.",Waste generated in operations,2022,308.0,2.5785131204409604
+179,"The Hartford Financial Services Group, Inc.",Purchased goods and services,2022,896595040.0,2.8211769580974106
+180,"The Hartford Financial Services Group, Inc.",Upstream transportation and distribution,2022,9382511.0,2.645751231758421
+181,Janus Henderson Group PLC,Business travel,2020,7598.0,2.56358771792304
+182,"Hitachi Construction Machinery Co., Ltd.",Purchased goods and services,2013,5390050.02,3.0617604215689154
+183,"Hitachi Construction Machinery Co., Ltd.",Capital goods,2013,988081.08,3.148087501356843
+184,"Hitachi, Ltd.",Purchased goods and services,2023,25858000.0,3.061445061764159
+185,"Hitachi, Ltd.",Investments,2014,182500.0,2.783021632625332
+186,"Hitachi, Ltd.",Downstream transportation and distribution,2023,119000.0,2.986283388274007
+187,Hindustan Zinc,Upstream transportation and distribution,2014,927665.0,2.69321629219595
+188,HOCHTIEF AG,Business travel,2016,102034.0,2.5764371414805685
+189,Holmen,Purchased goods and services,2023,190636.0,2.5325332468927333
+190,Hosken Consolidated Investments,Business travel,2022,10923.0,2.5354158286893993
+191,Hosken Consolidated Investments,Use of sold products,2013,4511422.0,2.9998002365433547
+192,HSBC Holdings plc,Purchased goods and services,2019,985439824.0,2.828426604441444
+193,HSBC Holdings plc,Capital goods,2019,1056729671.0,2.828426077265453
+194,Humana Inc.,Waste generated in operations,2023,45858.0,2.998006754217882
+195,Humana Inc.,Purchased goods and services,2023,2774260.0,2.5867359994761356
+196,SK Hynix,Investments,2013,9224.0,2.8282903165073896
+197,SK Hynix,End of life treatment of sold products,2017,232146.0,2.6939606028545673
+198,Hyundai E&C,Waste generated in operations,2014,106018.3,2.830829271599804
+199,Hyundai E&C,Capital goods,2023,1164.0,3.02210628617969
+200,Hyundai E&C,End of life treatment of sold products,2023,288569.0,2.71661963237032
+201,Iberdrola SA,Business travel,2014,76881.0,3.006770189647304
+202,Hyundai Motor Co,Waste generated in operations,2018,51727.44,2.7854294253507366
+203,Hyundai Motor Co,Business travel,2017,7090725.0,2.6056771632045463
+204,Hyundai Motor Co,Capital goods,2019,2493.37,2.745005929954185
+205,Hyundai Motor Co,End of life treatment of sold products,2023,2133743.0,2.6327053397648856
+206,"Ibiden Co., Ltd.",Fuel-and-energy-related activities (not included in Scope 1 or 2),2019,668900.0,3.145658347787527
+207,Impala Platinum Holdings,Waste generated in operations,2013,63476.6,2.8737473724617795
+208,Impala Platinum Holdings,Business travel,2016,7624.0,2.561710619977485
+209,Impala Platinum Holdings,Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,565846.0,2.567253460204383
+210,IHI Corporation,Use of sold products,2022,180000000.0,2.9089503940263137
+211,Imperial Brands,Business travel,2019,190509.0,3.1471828191083113
+212,Imperial Brands,Upstream transportation and distribution,2018,1672339.2,2.9975984363750587
+213,Imperial Brands,Downstream transportation and distribution,2018,522606.0,2.736910187408835
+214,Industrivärden,Fuel-and-energy-related activities (not included in Scope 1 or 2),2013,17.7,2.5324006196344024
+215,International Business Machines (IBM),Use of sold products,2013,2400000.0,2.5237792134298327
+216,Intel Corporation,Downstream transportation and distribution,2023,220000.0,2.543007727644985
+217,Insurance Australia Group,Purchased goods and services,2013,4277.0,2.579258509119045
+218,International Flavors & Fragrances Inc.,Business travel,2020,11346.0,2.7819787590605327
+219,International Paper Company,Upstream transportation and distribution,2020,2489471.102,2.8214454934647994
+220,Intesa Sanpaolo S.p.A,Purchased goods and services,2014,15686.38,2.661536663462212
+221,Intuit Inc.,Purchased goods and services,2023,421243.0,3.162172871060832
+222,Ipsos,Purchased goods and services,2023,102093.0,2.997730373004318
+223,Ipsos,Capital goods,2023,11009.0,2.637625162181636
+224,Itaú Unibanco Holding S.A.,Upstream transportation and distribution,2013,53937.6,2.5812016054893148
+225,Itaú Unibanco Holding S.A.,Downstream transportation and distribution,2014,45231.4,2.891353180911934
+226,JM AB,Upstream transportation and distribution,2023,6688.0,3.04322529226331
+227,Johnson Matthey,Upstream transportation and distribution,2022,168750.0,2.7418243326940535
+228,Johnson Matthey,Use of sold products,2019,250000000.0,2.9606377530088817
+229,KAO Corporation,Waste generated in operations,2018,583790.0,3.1378808126810376
+230,Kajima Corporation,Purchased goods and services,2023,5701816.0,2.6073189300453317
+231,Kajima Corporation,Downstream leased assets,2023,47527.0,3.0880518506180445
+232,"Kawasaki Kisen Kaisha, Ltd.",Capital goods,2014,319970.0,2.7872765078139565
+233,"Kawasaki Heavy Industries, Ltd.",Downstream transportation and distribution,2023,4239.0,3.1205484296877217
+234,KDDI Corporation,Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,209187.0,2.9712962608849494
+235,KDDI Corporation,Upstream transportation and distribution,2014,815043.0,2.9998093882283383
+236,KDDI Corporation,Use of sold products,2013,1027510.0,3.073403994448995
+237,Kemira Corporation,Capital goods,2014,278097.0,2.6457513110645907
+238,Kemira Corporation,End of life treatment of sold products,2015,3114941.0,2.622495692505588
+239,Kesko Corporation,Fuel-and-energy-related activities (not included in Scope 1 or 2),2013,168000.0,2.8025443290225263
+240,Kesko Corporation,Downstream transportation and distribution,2013,210000.0,2.5085809699464736
+241,Kesko Corporation,End of life treatment of sold products,2023,336900.0,3.138429799311271
+242,KeyCorp,Waste generated in operations,2015,6790.0,2.6903365761036437
+243,KeyCorp,Upstream leased assets,2013,37712.0,2.8567350513994683
+244,Kingfisher,Use of sold products,2023,15618779.0,2.8256840317477163
+245,Kinross Gold Corporation,Purchased goods and services,2023,1273641.0,3.149009942693582
+246,"Kintetsu Group Holdings Co.,Ltd.",Waste generated in operations,2023,10658.0,2.7614464992333154
+247,"Kintetsu Group Holdings Co.,Ltd.",Purchased goods and services,2023,1057928.0,3.162277613780963
+248,"Kintetsu Group Holdings Co.,Ltd.",Downstream leased assets,2023,64046.0,2.8108395565662603
+249,Klabin S/A,Waste generated in operations,2014,76602.43,3.1477056879735006
+250,Klabin S/A,Purchased goods and services,2023,710355.2,2.6000209050142455
+251,Klabin S/A,Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,88607.43,2.6441503959489108
+252,Klabin S/A,Downstream transportation and distribution,2023,383603.83,2.7717673844190056
+253,"Kokuyo Co., Ltd.",Business travel,2023,1169.0,2.795008140086704
+254,"Kokuyo Co., Ltd.",Purchased goods and services,2023,972882.0,2.50732239752717
+255,"Kokuyo Co., Ltd.",Employee commuting,2023,3057.0,2.7966357111405387
+256,"Kokuyo Co., Ltd.",Upstream transportation and distribution,2023,33436.0,2.613704412043009
+257,"Kokuyo Co., Ltd.",Use of sold products,2023,71429.0,2.806480910746901
+258,Komatsu Ltd.,Business travel,2020,153000.0,2.743754436238453
+259,Komatsu Ltd.,Capital goods,2013,255001.0,2.659782620066339
+260,Kongsberg Gruppen ASA,Business travel,2020,33782.0,2.576181792688827
+261,"Konica Minolta, Inc.",Waste generated in operations,2019,26275.65,2.6813619135086526
+262,"Konica Minolta, Inc.",Upstream transportation and distribution,2023,96490.0,2.956421502112313
+263,"Konica Minolta, Inc.",Downstream transportation and distribution,2023,63963.0,2.5574801099541555
+264,"Konica Minolta, Inc.",End of life treatment of sold products,2013,89203.0,2.542393965149735
+265,KPMG UK,Purchased goods and services,2014,41602343.0,3.066657381969155
+266,KT Corporation,Waste generated in operations,2013,12181.0,2.882592640184401
+267,KT Corporation,Fuel-and-energy-related activities (not included in Scope 1 or 2),2022,108983.0,2.5803211235104175
+268,Kubota Corporation,Business travel,2023,19231.0,2.653030431031214
+269,Kumba Iron Ore,Purchased goods and services,2023,913000.0,2.6609361479517273
+270,Kumba Iron Ore,Capital goods,2023,211000.0,2.8148859153587917
+271,Kumba Iron Ore,Upstream transportation and distribution,2023,341000.0,2.827899289555838
+272,L'Oréal,Investments,2013,138681.0,2.55265309804549
+273,Landsec,Waste generated in operations,2013,22131.59,3.161011559162888
+274,Landsec,Downstream leased assets,2017,258428.0,2.5031166583190867
+275,Larsen & Toubro,Business travel,2017,1110081.0,2.6456193279443116
+276,LEGRAND,Employee commuting,2020,299999.0,2.9997653001103517
+277,LEGRAND,Downstream transportation and distribution,2017,984660.0,2.997247122217792
+278,Lerøy Seafood Group,Purchased goods and services,2019,436789980.0,3.162265542170409
+279,LG Chem Ltd,Waste generated in operations,2023,61972.0,2.8306330417059606
+280,LG Chem Ltd,Business travel,2013,7431.0,2.858121353893261
+281,LG Chem Ltd,Capital goods,2022,203257.0,2.999999960457932
+282,LG Chem Ltd,Upstream transportation and distribution,2013,1342811.0,3.0747851291099524
+283,LG Electronics,Purchased goods and services,2023,9352276.0,3.1021857861984774
+284,LG Electronics,Upstream leased assets,2013,6306.0,3.086846171320837
+285,LG Household & Health Care,Purchased goods and services,2023,166421.0,2.9858398286357835
+286,Lloyds Banking Group,Use of sold products,2014,1747.0,2.641126200879104
+287,Lockheed Martin Corporation,Purchased goods and services,2014,27800000.0,2.6368840356179217
+288,Lundbeck A/S,Upstream leased assets,2021,14407.0,2.765495454586832
+289,Mahindra & Mahindra,Upstream transportation and distribution,2017,162928.0,2.8285257512445203
+290,Marks and Spencer Group plc,Processing of sold products,2013,8900.0,2.9497588568393978
+291,Manulife Financial Corp.,Waste generated in operations,2013,5534.0,2.5313553153547286
+292,Marfrig Global Foods S/A,Waste generated in operations,2015,485762.65,2.732789529978488
+293,Marfrig Global Foods S/A,Business travel,2013,7021.6,2.5448910994914145
+294,Marfrig Global Foods S/A,Upstream transportation and distribution,2013,472228.9,2.9878692952386587
+295,Mazda Motor Corporation,Downstream transportation and distribution,2013,90900.0,2.771979645250134
+296,Mediclinic International,Purchased goods and services,2023,1113.17,2.5648149671423712
+297,Mediclinic International,Employee commuting,2023,38381.01,2.5838503545771707
+298,Mediobanca,Purchased goods and services,2019,3197.82,2.6043500199471654
+299,Medtronic PLC,Downstream transportation and distribution,2016,364597.0,2.7275295054541573
+300,"Merck & Co., Inc.",Upstream transportation and distribution,2023,355200.0,2.6521560824229344
+301,Metso,Business travel,2013,71764.0,2.571029725454387
+302,Metso,Purchased goods and services,2013,2203505.0,2.6074840759856994
+303,Metso,Fuel-and-energy-related activities (not included in Scope 1 or 2),2013,58816.0,2.641244104643236
+304,Metso,Upstream transportation and distribution,2013,507038.0,2.5337344601620546
+305,Microsoft Corporation,Downstream leased assets,2022,18900.0,2.897517371645016
+306,Mitsubishi Electric Corporation,Upstream transportation and distribution,2023,606662.0,2.5012233913394053
+307,Mitsubishi Electric Corporation,Downstream transportation and distribution,2013,398000.0,2.9992498139569634
+308,"Mizuho Financial Group, Inc.",Business travel,2020,59379.93,3.140307320350514
+309,Mitsui O.S.K. Lines Ltd,Fuel-and-energy-related activities (not included in Scope 1 or 2),2020,2135523.0,2.507967860714008
+310,The Mosaic Company,Purchased goods and services,2013,6793936.0,3.111683819341926
+311,The Mosaic Company,Upstream transportation and distribution,2019,1096556.0,2.6546636411911937
+312,Morgan Advanced Materials,Business travel,2023,9360.0,2.630560975695415
+313,Morgan Stanley,Employee commuting,2022,125000.0,2.7133819990999988
+314,Morgan Stanley,End of life treatment of sold products,2014,7159.0,2.8284271247461907
+315,Morgan Stanley,Downstream leased assets,2014,1371.0,2.9195053208270734
+316,Murata Mfg. Co.,Upstream transportation and distribution,2022,382000.0,2.5704172953750506
+317,Murray & Roberts Holdings Limited,Business travel,2014,21310.0,2.61612162857191
+318,Murray & Roberts Holdings Limited,Purchased goods and services,2014,1558059.0,2.824318312152866
+319,"Nankai Electric Railway Co., Ltd.",Waste generated in operations,2016,30075.0,2.784498238814448
+320,"Nankai Electric Railway Co., Ltd.",Purchased goods and services,2023,271551.0,2.987766201532052
+321,"Nankai Electric Railway Co., Ltd.",Investments,2013,154100.0,2.9819409222358333
+322,"Nankai Electric Railway Co., Ltd.",Use of sold products,2023,16282.0,2.9074325591459775
+323,National Bank Of Greece,Business travel,2023,1720.215,3.130263765300138
+324,National Express Group Plc,Fuel-and-energy-related activities (not included in Scope 1 or 2),2015,159619.0,2.851408343197043
+325,National Grid PLC,Waste generated in operations,2023,45941.0,3.0890467439744103
+326,National Grid PLC,Business travel,2023,38156.0,2.892836080447941
+327,Natura Cosmeticos SA,Purchased goods and services,2023,1566179.65,3.156950833920433
+328,Natura Cosmeticos SA,Downstream transportation and distribution,2013,52822.25,2.8466008008791364
+329,NEC Corporation,Waste generated in operations,2015,35900.0,2.9942796482074447
+330,NEC Corporation,Upstream transportation and distribution,2016,500000.0,2.556766118867073
+331,NEC Corporation,Investments,2013,716885.0,2.628078118642171
+332,Nestlé,Upstream transportation and distribution,2021,5019315.0,3.058697015765962
+333,NetApp Inc.,Purchased goods and services,2023,181127.0,2.798065039623552
+334,NEW SPACE PROC.E SISTEMAS LTDA,Business travel,2019,7754.0,2.828415032196065
+335,NH Hotel Group,Waste generated in operations,2013,1112719736.0,2.8284249226853433
+336,NH Hotel Group,Business travel,2020,22948.0,2.5251682665949953
+337,Nexity,Purchased goods and services,2023,712827.0,2.999998188459999
+338,Nikon Corporation,Purchased goods and services,2015,3002831.0,2.6555970981866017
+339,Nikon Corporation,Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,24934.0,2.744493577437523
+340,Nikon Corporation,Upstream transportation and distribution,2015,205686.0,2.566399144850821
+341,Nippon Telegraph & Telephone Corporation (NTT),Waste generated in operations,2013,134064.0,2.9018365035544185
+342,Nippon Telegraph & Telephone Corporation (NTT),Upstream transportation and distribution,2013,489454.0,2.9826773761560657
+343,Nippon Yusen Kaisha Line,Capital goods,2013,470213.27,2.676741299245865
+344,Nokia Group,Purchased goods and services,2019,5284000.0,2.5862905341173428
+345,"Nissan Motor Co., Ltd.",Upstream transportation and distribution,2013,1490050.0,2.5372758409854717
+346,Northern Trust,Employee commuting,2023,32676.551,2.795504582579697
+347,Novo Nordisk A/S,Purchased goods and services,2023,2041000.0,2.5852485000516303
+348,Novozymes A/S,Capital goods,2013,40000.0,2.7490280194866212
+349,NSK Ltd.,Employee commuting,2017,93812.0,2.999227991600045
+350,NSK Ltd.,Investments,2017,96162.0,2.821015597442406
+351,NSK Ltd.,End of life treatment of sold products,2017,70009.0,2.94660638610443
+352,"NTT DOCOMO, INC.",Fuel-and-energy-related activities (not included in Scope 1 or 2),2020,210967.404,2.597613111689144
+353,NTN Corporation,Employee commuting,2015,3779977.0,2.8284234429000024
+354,NVIDIA Corporation,Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,67805.0,2.50630315306084
+355,Obayashi Corporation,Business travel,2023,3053.0,2.5761666681829705
+356,Obayashi Corporation,Capital goods,2019,65471.0,2.51262406408863
+357,Obayashi Corporation,Downstream leased assets,2023,24677.0,2.8367815805990424
+358,Olympus Corporation,Purchased goods and services,2023,407989.0,3.092428266772942
+359,Olympus Corporation,Employee commuting,2014,37000.0,2.9860698663786573
+360,Olympus Corporation,End of life treatment of sold products,2023,24557.0,3.1456233559625026
+361,OMRON Corporation,Business travel,2015,39173.0,2.618814241225106
+362,OMRON Corporation,Employee commuting,2019,11782.0,2.8597198235260763
+363,Oracle Corporation,Waste generated in operations,2014,3690.17,2.791737219989994
+364,Oracle Corporation,Upstream transportation and distribution,2013,112230.0,2.748364796012578
+365,"Osaka Gas Co., Ltd.",End of life treatment of sold products,2013,2002.0,2.628738683190333
+366,Orkla ASA,Fuel-and-energy-related activities (not included in Scope 1 or 2),2018,243811.0,3.1555783626986966
+367,Outokumpu Oyj,Fuel-and-energy-related activities (not included in Scope 1 or 2),2015,400000.0,2.981005507696441
+368,Owens Corning,Fuel-and-energy-related activities (not included in Scope 1 or 2),2016,1901164.09,2.9674259280893542
+369,Panasonic Corporation,Downstream transportation and distribution,2013,870000.0,2.789945614135482
+370,Pennon Group,Waste generated in operations,2020,18502.0,2.6356558029393784
+371,Pennon Group,Purchased goods and services,2022,198876.0,2.5056603092005205
+372,Pennon Group,Downstream transportation and distribution,2020,133314.0,2.6446628581591436
+373,Persimmon,Fuel-and-energy-related activities (not included in Scope 1 or 2),2021,7433.0,2.5566280422703054
+374,Petróleo Brasileiro SA - Petrobras,Business travel,2016,139925.0,2.6122178696804172
+375,Petróleo Brasileiro SA - Petrobras,Fuel-and-energy-related activities (not included in Scope 1 or 2),2016,7464322.0,2.629854458986825
+376,Pfizer Inc.,Waste generated in operations,2013,176000.0,2.626648296361547
+377,Pfizer Inc.,Fuel-and-energy-related activities (not included in Scope 1 or 2),2014,2261600.0,2.7515259315619143
+378,Pfizer Inc.,Upstream leased assets,2014,130398.0,2.688470181226681
+379,Koninklijke Philips NV,Capital goods,2015,3806747.0,2.696696900506892
+380,Philip Morris International,Capital goods,2019,235444.0,2.8763394194565937
+381,"PNC Financial Services Group, Inc.",Fuel-and-energy-related activities (not included in Scope 1 or 2),2019,21128.0,2.532918252961984
+382,Kering,Downstream transportation and distribution,2022,73103.0,2.6603003248451786
+383,Provident Financial plc,Waste generated in operations,2021,126.0,2.5900684834638596
+384,"Prudential Financial, Inc.",Business travel,2020,29598.0,2.725501245103853
+385,Qisda,Upstream transportation and distribution,2013,1674.0,2.6294503355354295
+386,Quest Diagnostics Incorporated,Waste generated in operations,2022,18223.6,2.5083968925583813
+387,Quest Diagnostics Incorporated,Purchased goods and services,2022,21217938.47,2.9999985120584443
+388,Raiffeisen Bank International AG,Capital goods,2020,28226.0,2.90922244069955
+389,Raiffeisen Bank International AG,Downstream transportation and distribution,2017,3593.0,3.1065354987480807
+390,RELX Group Plc,End of life treatment of sold products,2023,20939.0,2.827343939256112
+391,REN - Redes Energéticas Nacionais,Waste generated in operations,2021,7332.0,2.6436681662924313
+392,"Rengo Co., Ltd.",Waste generated in operations,2023,65518.0,3.052821739011457
+393,"Rengo Co., Ltd.",Purchased goods and services,2023,2596232.0,2.9986362704527374
+394,"Rengo Co., Ltd.",Employee commuting,2023,24325.0,2.932412231688117
+395,"Rengo Co., Ltd.",Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,295338.0,3.0346120102084018
+396,"Rengo Co., Ltd.",Upstream transportation and distribution,2023,570450.0,2.9989606761149314
+397,"Rengo Co., Ltd.",Processing of sold products,2023,178913.0,2.8580451108033382
+398,"Rengo Co., Ltd.",End of life treatment of sold products,2023,94226.0,2.995956631356988
+399,Renishaw,Purchased goods and services,2023,443892.0,2.8275015128937113
+400,BlackBerry Limited,Business travel,2013,21124.0,2.557174421950447
+401,Reunert,Waste generated in operations,2013,4537.22,3.0691862887757178
+402,Reunert,Business travel,2014,5929.28,2.603501186557921
+403,"Ricoh Co., Ltd.",Purchased goods and services,2023,1053000.0,2.5768448424675574
+404,"Ricoh Co., Ltd.",Investments,2013,38177.0,3.0386061756911755
+405,Rio Tinto,Downstream transportation and distribution,2020,6000000.0,2.7780502316323124
+406,ROCKWOOL International A/S,Business travel,2018,6719334.0,2.721959567089444
+407,ROCKWOOL International A/S,Downstream transportation and distribution,2019,604416.0,2.535333160766739
+408,Koninklijke KPN NV (Royal KPN),Upstream transportation and distribution,2014,9867.0,2.8284271247461907
+409,Koninklijke KPN NV (Royal KPN),Use of sold products,2023,23678.0,2.9651488709437883
+410,Royal Dutch Shell,Purchased goods and services,2021,147000000.0,2.778144196740369
+411,Royal Dutch Shell,Fuel-and-energy-related activities (not included in Scope 1 or 2),2021,104500000.0,2.828083266313023
+412,Royal Dutch Shell,Use of sold products,2021,1054300000.0,2.816564485120768
+413,"Ryder System, Inc.",Upstream transportation and distribution,2023,3800.04,2.6846559889100945
+414,Samsung Heavy Industries Co Ltd,Waste generated in operations,2015,1447420.0,2.6205351449902854
+415,Samsung Heavy Industries Co Ltd,Purchased goods and services,2023,4087390.827,2.6250288224092166
+416,Samsung Heavy Industries Co Ltd,Employee commuting,2022,4777.0,2.8512409573384123
+417,Samsung Heavy Industries Co Ltd,Fuel-and-energy-related activities (not included in Scope 1 or 2),2022,56829.0,2.900427080664181
+418,Samsung Engineering,Upstream transportation and distribution,2013,176503.0,2.925455528156679
+419,Samsung Engineering,Use of sold products,2023,131116.0,2.6745765740750436
+420,Samsung Fire & Marine Insurance,Downstream leased assets,2023,5466.6,2.8084898664640603
+421,Samsung Electronics,Waste generated in operations,2016,3121203.0,2.804846025021718
+422,"Samsung Electro-Mechanics Co., Ltd.",Purchased goods and services,2023,144311.0,2.97571065098535
+423,"Samsung Electro-Mechanics Co., Ltd.",Capital goods,2013,66387.0,3.1550991206077525
+424,"Samsung Electro-Mechanics Co., Ltd.",Upstream transportation and distribution,2019,165843.0,2.8190110441284024
+425,"Samsung Electro-Mechanics Co., Ltd.",Investments,2015,76013.0,2.7290905098732248
+426,"Samsung Electro-Mechanics Co., Ltd.",Use of sold products,2014,86144.0,2.9155239373762885
+427,"Samsung Electro-Mechanics Co., Ltd.",End of life treatment of sold products,2014,1656.0,2.876759254525922
+428,Samsung SDI,Purchased goods and services,2023,789059.0,2.951096413491444
+429,Samsung SDI,Upstream transportation and distribution,2023,118927.0,3.1622034179498737
+430,Samsung SDI,Use of sold products,2018,4228995.0,2.8465111116787867
+431,Sapporo Holdings Limited,Capital goods,2014,198573.0,2.641089949133385
+432,SAP SE,Waste generated in operations,2013,7889.0,3.09977213810916
+433,Sasol Limited,Business travel,2015,84952.0,3.0929690245857944
+434,Schneider Electric,Fuel-and-energy-related activities (not included in Scope 1 or 2),2021,371159.0,3.102284216683176
+435,SSE,Fuel-and-energy-related activities (not included in Scope 1 or 2),2018,11536809.0,2.8740587202858134
+436,Securitas AB,Purchased goods and services,2023,978805.0,3.156501852227971
+437,Securitas AB,Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,46402.0,2.991585182666813
+438,Ses,Upstream transportation and distribution,2022,2992.0,2.5170892086086982
+439,"Seven & I Holdings Co., Ltd.",Capital goods,2015,6255359.0,2.8272284479469434
+440,"Seven & I Holdings Co., Ltd.",Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,697274.0,2.712698579794952
+441,Shimizu Corporation,Purchased goods and services,2013,3812777.0,2.5119450367741356
+442,Shimizu Corporation,Upstream transportation and distribution,2018,1905349.0,2.6457030215537007
+443,"Shin-Etsu Chemical Co., Ltd.",Downstream transportation and distribution,2014,7622125.2,3.1609651200724094
+444,"Shiseido Co., Ltd.",Business travel,2018,70224.0,3.0072015086285275
+445,Shinhan Financial Group,Capital goods,2023,1414.7,2.7142128193179564
+446,Shinhan Financial Group,Use of sold products,2021,40237.73,2.8704767551655817
+447,Shree Cement,Business travel,2015,2885.0,2.5363527973081794
+448,Shree Cement,Employee commuting,2018,3674.7,2.551771253053181
+449,Sika Group AG,Purchased goods and services,2020,14000000.0,2.707308783966686
+450,SK Telecom,Investments,2021,5558286.0,2.523339415930376
+451,Snam S.P.A,Capital goods,2023,739795.0,2.7133705467845144
+452,Snam S.P.A,Upstream leased assets,2016,5621.0,2.684398673305769
+453,Solar AS,Business travel,2019,10840.3,3.1381143911106197
+454,"Sompo Holdings, Inc",Business travel,2020,24638.0,2.7680937221108057
+455,"Sompo Holdings, Inc",Employee commuting,2023,12395.0,3.009086118225422
+456,"Sompo Holdings, Inc",Downstream transportation and distribution,2013,3672.0,3.0
+457,Southwest Airlines Co.,Capital goods,2023,197969.0,2.683422392648584
+458,Starbucks Corporation,Capital goods,2019,2845368.57,2.5130579792333276
+459,Starbucks Corporation,Processing of sold products,2014,417628.0,2.79706408479789
+460,Starbucks Corporation,End of life treatment of sold products,2020,612189.99,2.7562016843440897
+461,Steelcase,Waste generated in operations,2014,56481.43,2.5338906939727983
+462,Steelcase,Business travel,2016,6987571.0,2.8281435230920917
+463,Steelcase,Upstream transportation and distribution,2016,23502252.0,2.8283980055993947
+464,Steelcase,Downstream leased assets,2013,28913.9,2.64520958316073
+465,Storebrand ASA,Waste generated in operations,2013,932.2,3.160521482005627
+466,Suez,Employee commuting,2020,299876.0,2.591605798726407
+467,Suez,Fuel-and-energy-related activities (not included in Scope 1 or 2),2019,27733790.0,2.6418679996384298
+468,"Sumitomo Chemical Co., Ltd.",Capital goods,2019,394000.0,2.970604152899171
+469,"Sumitomo Rubber Industries, Ltd.",Waste generated in operations,2023,19000.0,2.994009962171433
+470,"Sumitomo Rubber Industries, Ltd.",Purchased goods and services,2023,5073000.0,2.863459148981231
+471,"Sumitomo Rubber Industries, Ltd.",Employee commuting,2023,17000.0,2.9966557134981113
+472,"Sumitomo Rubber Industries, Ltd.",End of life treatment of sold products,2023,897000.0,3.125972789422739
+473,"Sumitomo Metal Mining Co., Ltd.",Waste generated in operations,2016,9320.0,2.60835134207703
+474,"Sumitomo Forestry Co., Ltd.",Capital goods,2020,131507.0,2.7436740221164952
+475,Sumitomo Heavy Industries. Ltd.,Use of sold products,2022,136315137.0,2.6800090610667096
+476,Suncor Energy Inc.,Processing of sold products,2023,7500000.0,2.6456263283128436
+477,Svenska Handelsbanken,Purchased goods and services,2023,4228.0,2.608307591272725
+478,Swiss Life Holding,Business travel,2020,8578.0,2.658739051091176
+479,Symrise AG,Business travel,2020,30069.0,2.9893637437378953
+480,Taisei Corporation,Capital goods,2019,127514.0,2.595681315830842
+481,Taisei Corporation,Use of sold products,2016,26581560.0,2.9323586997945563
+482,Taisei Corporation,End of life treatment of sold products,2016,456905.0,2.527443053670075
+483,Takeda Pharmaceutical Company Limited,End of life treatment of sold products,2023,161400.0,2.978450479666781
+484,Tata Steel,Downstream transportation and distribution,2019,4409000.0,2.5692187396834942
+485,Tata Steel,Processing of sold products,2018,3300000.0,2.5236833707790156
+486,Taylor Wimpey Plc,Purchased goods and services,2020,2242225.0,2.5001913619421803
+487,Tecnicas Reunidas,Purchased goods and services,2022,87233864.0,2.828360881836514
+488,Spark New Zealand,Upstream transportation and distribution,2022,4000.0,2.8263236680522192
+489,Telekom Austria AG,Other (upstream),2014,74603.0,2.82842712474619
+490,Telkom SA Limited,Business travel,2019,63863.0,2.541943402593516
+491,Tesco,Business travel,2013,87678.0,2.6602510603704825
+492,Tesco,Use of sold products,2023,29936367.0,3.099571529728981
+493,Terna,Business travel,2020,4297.0,2.7055338155083315
+494,Terna,Purchased goods and services,2023,122651.0,2.8058781717977053
+495,TETRA PAK,Business travel,2013,92000.0,2.7595775751473584
+496,TETRA PAK,Downstream transportation and distribution,2013,80000.0,2.857198606795234
+497,The Spar Group Ltd,Business travel,2022,32103.13,2.964111189072247
+498,The Spar Group Ltd,Purchased goods and services,2018,919275.0,2.9922251456610836
+499,Thomson Reuters Corporation,Purchased goods and services,2013,3000000.0,2.544179019379528
+500,Toda Corporation,Employee commuting,2014,3918.0,3.0567783495063097
+501,Tokyo Electron Ltd.,Waste generated in operations,2023,2808.0,3.102144511774001
+502,Tokyo Electron Ltd.,Purchased goods and services,2023,4052926.0,3.1499173639791147
+503,Tokyo Electron Ltd.,Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,26941.0,2.935353815314616
+504,Tokyo Electron Ltd.,Use of sold products,2022,28254316.0,3.0296541186942525
+505,Tokyo Electron Ltd.,End of life treatment of sold products,2023,5013.0,2.696662131503863
+506,"Tokyo Gas Co., Ltd.",Waste generated in operations,2023,5000.0,2.938582767562417
+507,"Tokyo Gas Co., Ltd.",Purchased goods and services,2023,7339000.0,2.9996708172763706
+508,"Tokyo Gas Co., Ltd.",Employee commuting,2022,3400.0,2.5820532091024213
+509,"Tokyo Gas Co., Ltd.",Downstream leased assets,2013,3248.0,2.82842712474618
+510,Toshiba Corporation,Upstream transportation and distribution,2013,5000000.0,3.139591759200263
+511,Toshiba Corporation,Downstream transportation and distribution,2013,980000.0,3.063757580123684
+512,Tomra Systems ASA,Use of sold products,2023,414269.0,3.0733039313034185
+513,"Toray Industries, Inc.",Waste generated in operations,2022,20244.0,2.9286463631302113
+514,"Toray Industries, Inc.",Employee commuting,2023,21573.0,3.1407641476372032
+515,"Toray Industries, Inc.",Capital goods,2023,396288.0,3.05888822923607
+516,"Toray Industries, Inc.",Upstream transportation and distribution,2023,210295.0,3.128541449637641
+517,Toto Ltd.,Waste generated in operations,2022,17050.0,2.8003358437466916
+518,Toto Ltd.,Downstream transportation and distribution,2014,116010.0,2.9738142240750465
+519,"Toyobo Co., Ltd.",Waste generated in operations,2023,52739.0,2.5444550176440996
+520,Toyota Industries Corporation,Business travel,2023,11602.0,2.818568478717218
+521,Toyota Industries Corporation,Purchased goods and services,2023,4073134.0,2.664513174308193
+522,Toyota Industries Corporation,Employee commuting,2023,39830.0,2.818507937456309
+523,Toyota Industries Corporation,End of life treatment of sold products,2015,45649820.0,2.8284071429934365
+524,Toyota Motor Corporation,Use of sold products,2023,439445184.0,2.509169064281476
+525,Tsumura & Co.,Waste generated in operations,2022,4500.0,2.938436672669708
+526,Tsumura & Co.,Upstream transportation and distribution,2022,3500.0,2.9601176599754226
+527,Truworths International,Waste generated in operations,2020,10875.0,3.1622207443342036
+528,U.S. Bancorp,Waste generated in operations,2013,16200.0,2.7811799131807358
+529,Uni-Charm Corporation,Business travel,2018,1400.0,2.5153266571143686
+530,UniCredit,Waste generated in operations,2018,2092.0,2.8951582467670827
+531,Union Pacific Corporation,Waste generated in operations,2019,1888277.0,2.533964525593771
+532,Union Pacific Corporation,Business travel,2023,38905.0,2.7724581754870945
+533,Union Pacific Corporation,Purchased goods and services,2023,868106.0,2.999746474443036
+534,Union Pacific Corporation,Employee commuting,2023,174299.0,2.6454392273261225
+535,Union Pacific Corporation,Capital goods,2023,682196.0,2.547901237743253
+536,Union Pacific Corporation,Upstream transportation and distribution,2023,556190.0,2.644963179592137
+537,United Microelectronics,Business travel,2016,2991.0,2.9927684751837047
+538,United Microelectronics,Downstream transportation and distribution,2016,8624.0,2.6462921960460566
+539,UPS,Waste generated in operations,2022,90000.0,2.8247592858240176
+540,VERBUND AG,Waste generated in operations,2014,1769.0,2.6366699517113905
+541,VERBUND AG,Purchased goods and services,2023,83425.0,2.7963270698424023
+542,VERBUND AG,Capital goods,2023,716267.0,2.8194434479113566
+543,VERBUND AG,Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,4193725.0,2.8242384228303505
+544,VERBUND AG,Upstream leased assets,2014,257.0,2.538719305942993
+545,Veidekke ASA,Fuel-and-energy-related activities (not included in Scope 1 or 2),2018,61716.0,3.0001130150355815
+546,Volkswagen AG,Franchises,2023,3009100.0,3.0
+547,Vodafone Group,Waste generated in operations,2017,4000.0,2.570848112052425
+548,Wacker Chemie AG,Employee commuting,2013,50000.0,2.8747439586720946
+549,Warehouse Group,Business travel,2020,27189.22,3.1390993391990305
+550,"Waste Management, Inc.",Downstream leased assets,2023,22731.0,2.6391913694661926
+551,Waters Corporation,Waste generated in operations,2014,101320.0,2.6454993432161373
+552,Wereldhave,Waste generated in operations,2018,11400.0,2.7316783038510906
+553,West Japan Railway Company,Business travel,2023,5855.0,3.0105310020716654
+554,West Japan Railway Company,Purchased goods and services,2022,2772528.0,2.6549559438599286
+555,Ferguson plc,Waste generated in operations,2023,39216.0,2.654999181229006
+556,Wilson Bayly Holmes-Ovcon Ltd,Business travel,2014,4858.38,2.546568884663081
+557,Woolworths Holdings Ltd,Purchased goods and services,2013,949271.0,3.132624435983693
+558,Workspace Group,Waste generated in operations,2014,12760.0,2.645691482131902
+559,Azbil Corporation,End of life treatment of sold products,2023,14265.0,2.591123852983066
+560,YES BANK Limited,Investments,2022,1915033.0,2.7083124917784636
+561,LG Innotek,Processing of sold products,2022,62568.0,2.6344316116388025
+562,Chubb Limited,Upstream transportation and distribution,2017,2000.0,2.8522900205738257
+563,Amdocs Ltd,Purchased goods and services,2019,36770453.77,2.826536445296036
+564,Wistron Corp,Upstream transportation and distribution,2016,795367.08,2.6450844917310947
+565,Wistron Corp,Downstream transportation and distribution,2016,2387001.93,2.6262550077418907
+566,Olam International,Fuel-and-energy-related activities (not included in Scope 1 or 2),2018,4528644.0,2.6325597271237093
+567,Lenovo Group,End of life treatment of sold products,2014,400000.0,2.5325794012014295
+568,Oi S.A,Upstream transportation and distribution,2015,35789.24,2.6497445798194676
+569,CIA SANEAMENTO DE MINAS GERAIS - COPASA,Business travel,2013,406.63,2.5509166775540506
+570,Teck Resources Limited,Business travel,2023,22000.0,3.1388267611957006
+571,Teck Resources Limited,Capital goods,2023,364000.0,2.6457513110645907
+572,Teck Resources Limited,Investments,2022,4500000.0,2.9641698946105484
+573,Teck Resources Limited,Processing of sold products,2022,2000000.0,2.623512517981101
+574,Teck Resources Limited,End of life treatment of sold products,2016,600000.0,2.6299306449636988
+575,DNB ASA,Fuel-and-energy-related activities (not included in Scope 1 or 2),2014,5405.0,2.525700544486032
+576,Cia Paranaense de Energia - COPEL,Employee commuting,2017,3326.23,2.5972195343011193
+577,Cia Paranaense de Energia - COPEL,Upstream transportation and distribution,2023,20573.0,3.130463596156306
+578,N Brown Group Plc,Fuel-and-energy-related activities (not included in Scope 1 or 2),2019,3905.4,2.638197379727877
+579,Costain Group,Waste generated in operations,2020,6583.32,2.875901370426722
+580,CEWE Stiftung & Co. KGaA,Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,1644.0,2.6706065962303067
+581,Ted Baker Plc,Waste generated in operations,2013,3216.0,2.9180752959333973
+582,Ted Baker Plc,Franchises,2017,4655.0,2.676460529851894
+583,ICL,Waste generated in operations,2023,116094.0,3.136601036952707
+584,ICL,Business travel,2014,16749.0,2.9212647789699764
+585,ICL,Purchased goods and services,2023,1076052.0,2.787319315433561
+586,ICL,Employee commuting,2023,6083.0,2.974331028342154
+587,ICL,Fuel-and-energy-related activities (not included in Scope 1 or 2),2022,439700.0,3.161523436911865
+588,BillerudKorsnäs,Employee commuting,2023,6000.0,3.0249872420690296
+589,BillerudKorsnäs,Upstream transportation and distribution,2014,693334.0,3.1583902872263296
+590,Intercontinental Hotels Group,Purchased goods and services,2013,4400000.0,2.5899060391467206
+591,Senior Plc,Waste generated in operations,2013,4456.0,2.9631847552856425
+592,Varian Medical Systems Inc,Downstream leased assets,2014,1393.0,2.5514977868257995
+593,Vodacom Group,Purchased goods and services,2023,397482.0,3.162276649953613
+594,Vodacom Group,Upstream transportation and distribution,2023,22380.0,2.7731363695004814
+595,Credicorp Limited,Waste generated in operations,2014,3714.19,2.5657527924792496
+596,STMicroelectronics International NV,Purchased goods and services,2023,1643399.0,3.1423449042635285
+597,STMicroelectronics International NV,Capital goods,2023,450530.0,2.882538304342024
+598,STMicroelectronics International NV,Upstream transportation and distribution,2023,56855.0,2.995238562755517
+599,Cielo SA,Waste generated in operations,2020,431.52,2.9707220924101043
+600,Cielo SA,Downstream transportation and distribution,2023,47.15,2.7077713981079907
+601,Koninklijke DSM,Capital goods,2013,1000000.0,2.7669040864568424
+602,Vaisala Oyj,Use of sold products,2023,31687.0,2.8278880276479383
+603,J Sainsbury Plc,Capital goods,2013,226170.0,2.585630515618932
+604,J Sainsbury Plc,Downstream leased assets,2014,131594.0,2.737337222119584
+605,Freeport-McMoRan Inc.,Purchased goods and services,2023,3087916.0,2.823761541979324
+606,Investec Limited,Purchased goods and services,2013,2833.2,2.896290994865231
+607,Charles Komar & Sons,Employee commuting,2017,17542.41,2.624321789903219
+608,"Norcom, Inc.",Downstream transportation and distribution,2023,4120452.66,2.82837677022555
+609,Iron Mountain Inc.,Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,101843.0,2.5432928746907235
+610,Crown Prince,Upstream transportation and distribution,2013,1716.0,2.7545802276019775
+611,Royal Bafokeng Platinum Ltd,Waste generated in operations,2013,10669.0,2.9456765744040583
+612,Royal Bafokeng Platinum Ltd,Purchased goods and services,2022,378500.0,2.645358025667866
+613,Banco Santander Brasil,Employee commuting,2013,15478.0,2.5867145981652295
+614,Jupiter Fund Management,Waste generated in operations,2017,5.78,2.6376006112697667
+615,Jupiter Fund Management,Purchased goods and services,2022,30984.31,2.5535578367856515
+616,"MS&AD Insurance Group Holdings, Inc.",Capital goods,2015,1080192.0,2.6717738117167227
+617,Korea District Heating Corp.,Waste generated in operations,2017,15439339.0,2.9924714925535083
+618,Korea District Heating Corp.,Upstream transportation and distribution,2014,72551027.0,2.922291384296848
+619,Abengoa,Waste generated in operations,2013,14460.0,2.5879580158723057
+620,"Harvard Maintenance, Inc.",Employee commuting,2023,2096.74,2.6364093279072267
+621,CONSTRUTORA NORBERTO ODEBRECHT S.A,Upstream transportation and distribution,2015,1336706.94,2.9260449951865017
+622,"International Consolidated Airlines Group, S.A.",Purchased goods and services,2013,8468.0,3.1522057382698856
+623,"International Consolidated Airlines Group, S.A.",Upstream transportation and distribution,2013,633241.0,3.15870290328341
+624,INDUSTRIA GRAFICA EUROSTAMPA S P A,Upstream transportation and distribution,2022,10429.0,2.8128442155301685
+625,Bright International Corp.,Upstream transportation and distribution,2013,8832.0,2.8279887699736106
+626,La Poste,Business travel,2018,95655.0,2.6264055889301354
+627,CTT - Correios de Portugal SA,Business travel,2023,49.1,2.781532517159198
+628,Amtrak,Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,210667.0,2.8588270997114034
+629,CNH Industrial NV,Waste generated in operations,2023,29950.0,3.1617266778937267
+630,CNH Industrial NV,Employee commuting,2023,67773.0,3.1407341920582863
+631,CNH Industrial NV,Capital goods,2015,585374.0,2.6382677637687113
+632,CNH Industrial NV,Use of sold products,2023,46998090.0,3.154831288772566
+633,Resolute Forest Products Inc.,Waste generated in operations,2014,422887.0,2.896309334861381
+634,Resolute Forest Products Inc.,Business travel,2019,3993.0,2.6290762588864136
+635,AECI Ltd Ord,Upstream transportation and distribution,2017,200996.0,2.824733510923957
+636,Ambuja Cements,Waste generated in operations,2021,4568.0,2.577994439832604
+637,Ambuja Cements,Employee commuting,2023,22041.251,2.9175905421043393
+638,"American Electric Power Company, Inc.",Waste generated in operations,2015,2.0,2.8284271247461903
+639,Apple Inc.,Upstream transportation and distribution,2014,1600000.0,2.833053444422326
+640,Asics Corporation,Franchises,2014,49.0,2.581972094325392
+641,Ball Corporation,Waste generated in operations,2017,72030.0,2.816147294483656
+642,Brambles,Business travel,2019,600000.0,2.8282422194823353
+643,Crescent Point Energy Corporation,Business travel,2015,2916.13,2.824704516759535
+644,"Daito Trust Construction Co., Ltd.",Capital goods,2019,64.12,2.6104541005229227
+645,FIRMENICH SA,Waste generated in operations,2023,44230.0,2.856158242549306
+646,Fortum Oyj,Waste generated in operations,2022,26000.0,2.7813534347910442
+647,Fortum Oyj,Processing of sold products,2022,140900.0,2.82560537500598
+648,GAIL,Business travel,2016,296985.0,2.620646295320365
+649,"GIGA-BYTE TECHNOLOGY CO.,LTD",Purchased goods and services,2022,1515136.6,2.695907758953295
+650,"The Hachijuni Bank, Ltd.",Employee commuting,2018,14810.1,2.999449622689094
+651,Ingenico,Upstream transportation and distribution,2016,398636.0,2.610833170313543
+652,Japan Tobacco Inc.,Processing of sold products,2014,4869.0,2.581061810410732
+653,Korea Electric Power Corp,Business travel,2014,65756.0,2.9217461238609737
+654,Korea Electric Power Corp,Employee commuting,2015,19693.0,2.792823229057046
+655,LG,Business travel,2019,693569.0,2.822949619538544
+656,LG,Employee commuting,2023,31902.0,2.8281973487978136
+657,LG Uplus,Waste generated in operations,2022,1310.0,2.9417654938361593
+658,LG Uplus,Purchased goods and services,2023,384063.0,2.941192482580078
+659,LG Uplus,Capital goods,2023,315362.0,2.827447242678794
+660,LG Uplus,Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,111861.0,2.828367680503573
+661,Lincoln National Corporation,Purchased goods and services,2023,66510.0,2.644784498538367
+662,Lincoln National Corporation,Employee commuting,2023,9064.0,2.620995182472537
+663,McDonald's Corporation,Franchises,2014,11070185.0,2.541039699436318
+664,"NGK Spark Plug Co., Ltd.",Waste generated in operations,2022,7740.0,2.5089657194944275
+665,"NGK Spark Plug Co., Ltd.",Purchased goods and services,2022,1690257.0,2.6453854411508253
+666,"NGK Spark Plug Co., Ltd.",Employee commuting,2022,14701.0,2.5725325149194096
+667,"NGK Spark Plug Co., Ltd.",Upstream transportation and distribution,2022,143579.0,2.8284077051738485
+668,"NGK Spark Plug Co., Ltd.",Use of sold products,2022,9399505.0,2.642612294205264
+669,"Nippon Kayaku Co., Ltd.",Capital goods,2021,88648.0,2.529244067457888
+670,"Nomura Research Institute, Ltd.",Business travel,2020,24629.41,2.7272912687011455
+671,"Nomura Research Institute, Ltd.",End of life treatment of sold products,2015,378.0,2.795904409772952
+672,Rexel,Business travel,2015,942904.0,2.8281991278042407
+673,Royal Mail Group,Fuel-and-energy-related activities (not included in Scope 1 or 2),2022,125593.893,2.641952373149241
+674,Royal Mail Group,Upstream transportation and distribution,2022,245091.0,2.6199953870089256
+675,Royal Mail Group,Downstream transportation and distribution,2022,107281.0,2.6453474765182894
+676,"Secom Co., Ltd.",Use of sold products,2020,280495.78,2.5240296613700135
+677,"Secom Co., Ltd.",End of life treatment of sold products,2019,15210.49,2.8265187662768114
+678,Tata Communications,Waste generated in operations,2023,926.0,2.7818152932460283
+679,Tata Communications,Employee commuting,2018,2420707.0,2.813628861298482
+680,Tata Motors,Employee commuting,2018,74848.0,2.995596145380139
+681,Ultratech Cement,Upstream transportation and distribution,2021,8024674.0,2.8350327865269667
+682,Ultrapar Participações S/A,Waste generated in operations,2014,34171.9,2.9628853445822636
+683,Vermilion Energy Inc.,Purchased goods and services,2015,203480.97,2.8020657588402473
+684,Vermilion Energy Inc.,Capital goods,2015,160188.82,2.781782494956121
+685,Vermilion Energy Inc.,Downstream transportation and distribution,2015,354022.0,2.8184355815532776
+686,"Yamato Holdings Co., Ltd.",Business travel,2019,4324502.45,2.8284203162705928
+687,"Yamato Holdings Co., Ltd.",Employee commuting,2018,43478818.56,2.586427004499969
+688,BRF S.A,Waste generated in operations,2023,57610270.0,2.9999944083908745
+689,BRF S.A,Business travel,2023,4481479.0,2.9999951491153234
+690,BRF S.A,Upstream transportation and distribution,2023,671067725.0,2.9999996381655194
+691,Barratt Developments plc,Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,1765748.0,2.8284047769206353
+692,TOYOTA CAETANO,End of life treatment of sold products,2016,2.11,2.8203382905277685
+693,"Amadeus IT Group, S.A.",Purchased goods and services,2023,902.0,2.9357974106411127
+694,"Central Business Forms, Inc",Employee commuting,2015,31.2,2.636812267866311
+695,Galaxy Surfactants Ltd.,Fuel-and-energy-related activities (not included in Scope 1 or 2),2022,8175.304,2.5045024903489184
+696,Evonik Industries AG,Upstream transportation and distribution,2023,970300.0,2.845424068365576
+697,Tennant Company,Upstream transportation and distribution,2023,85826.0,2.677641640573496
+698,Model Holding AG,Business travel,2020,3900.0,2.8271923944016666
+699,Model Holding AG,Fuel-and-energy-related activities (not included in Scope 1 or 2),2022,56309.0,2.558022397234826
+700,PM Group,Purchased goods and services,2023,6081.3,2.6457406350072046
+701,Valmet,Downstream transportation and distribution,2023,92988.0,2.9737588553072474
+702,Arista Networks,Business travel,2023,2363.0,2.866673419257808
+703,Arista Networks,Purchased goods and services,2018,9006779.45,2.8277837502877468
+704,Arista Networks,Capital goods,2022,19830.0,2.630827104819279
+705,Arista Networks,Downstream transportation and distribution,2017,80810.0,2.7143691266944163
+706,ACUMULADORES MOURA SA,Upstream transportation and distribution,2023,17256.737,2.617830019412926
+707,"Berry Global Group, Inc",Waste generated in operations,2023,27985.0,2.577825874936326
+708,"Berry Global Group, Inc",Employee commuting,2023,208473.0,2.5630431501237196
+709,"Berry Global Group, Inc",Upstream transportation and distribution,2019,4334000.0,2.801031997680407
+710,"Berry Global Group, Inc",End of life treatment of sold products,2023,1654208.0,2.6028487807154557
+711,BorgWarner,Fuel-and-energy-related activities (not included in Scope 1 or 2),2022,100000.0,2.639474454495798
+712,Castellum,Business travel,2016,462.0,2.602458114510104
+713,Castellum,Employee commuting,2017,833.0,2.5056512849003716
+714,China Mobile,Purchased goods and services,2022,5697444.53,2.503015365082707
+715,China Mobile,Upstream transportation and distribution,2022,79894.08,2.6347805751561792
+716,FSP Technology Inc.,Business travel,2016,16955.0,2.639821157164845
+717,Glory Ltd.,Purchased goods and services,2023,267125.43,2.586649374413766
+718,Godrej Industries,Business travel,2023,3670.0,2.772700833177598
+719,Hertz Global Holdings,Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,916671.0,2.64568999793224
+720,Inmarsat,Purchased goods and services,2021,210774.11,2.592093790980619
+721,Isuzu Motors Limited,Capital goods,2020,1625348.0,2.576456481508817
+722,Isuzu Motors Limited,Use of sold products,2023,96457196.0,2.555967261606027
+723,JSR Corporation,Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,47735.0,2.8164249485193755
+724,JSR Corporation,Upstream leased assets,2015,1874.0,2.689996849032453
+725,JTEKT Corporation,Purchased goods and services,2022,6566347.0,2.751355268624048
+726,JTEKT Corporation,Upstream transportation and distribution,2022,184878.0,2.7351371720271405
+727,Kikkoman Corporation,Upstream transportation and distribution,2023,371534.0,2.820899165867447
+728,Konecranes,Business travel,2021,3000000.0,2.82841666682683
+729,"Ono Pharmaceutical Co., Ltd.",Upstream transportation and distribution,2016,259.0,2.5116226497832317
+730,"Taiyo Yuden Co., Ltd.",Waste generated in operations,2022,21235.0,2.5168272436383266
+731,"Taiyo Yuden Co., Ltd.",Business travel,2015,6866.0,2.8237268772526414
+732,TransAlta Corporation,Capital goods,2023,603083.0,2.523846794416581
+733,TransAlta Corporation,Fuel-and-energy-related activities (not included in Scope 1 or 2),2015,4625708.0,2.8161492467759075
+734,True Corporation,End of life treatment of sold products,2017,17693.02,2.525500415330726
+735,Frigoglass,Waste generated in operations,2020,1613.0,2.8274867640164105
+736,Frigoglass,Downstream transportation and distribution,2020,1867549.0,2.8282911636643466
+737,Spire Healthcare,Fuel-and-energy-related activities (not included in Scope 1 or 2),2015,6486.0,2.75443494586988
+738,Korea East-West Power,Waste generated in operations,2023,1790.0,2.755829963793398
+739,Korea East-West Power,Capital goods,2023,145142.0,2.828141299773747
+740,Korea East-West Power,Upstream transportation and distribution,2023,108047.0,2.807355040421184
+741,Macerich Co.,Waste generated in operations,2015,109129.0,2.799272229853144
+742,Macerich Co.,Employee commuting,2018,10278.0,2.6793006667369577
+743,"Regeneron Pharmaceuticals, Inc.",Waste generated in operations,2023,5669.0,2.6185890640316973
+744,"Regeneron Pharmaceuticals, Inc.",Fuel-and-energy-related activities (not included in Scope 1 or 2),2023,66876.0,2.610955678079312
+745,Borregaard ASA,Fuel-and-energy-related activities (not included in Scope 1 or 2),2016,36573.0,2.5163038211686644
+746,Flughafen München GmbH,Waste generated in operations,2021,66390.0,2.824537741359233
+747,Flughafen München GmbH,Business travel,2021,642000.0,2.8284256552026616
+748,"Ricoh Leasing Co., Ltd.",Employee commuting,2015,753.0,2.5702067085385125
+749,"NIHON KAJITSU KOGYO CO., LTD",Business travel,2021,296.0,2.5855701621802334
+750,"NIHON KAJITSU KOGYO CO., LTD",Capital goods,2020,28729.0,2.7782907842384685
+751,"NIHON KAJITSU KOGYO CO., LTD",Downstream transportation and distribution,2016,201676846.9,2.8179446212228942
+752,Deutsche Lufthansa AG,Business travel,2019,353181.0,2.6107011960629314
+753,Hamamatsu Photonics K.K.,Use of sold products,2016,255676.56,2.5095411814313313
+754,JCDecaux SA.,Purchased goods and services,2023,57490.0,2.620240005217288
+755,Moody's Corporation,Business travel,2016,20935572.0,2.6457507951592056
+756,Nidec Corporation,Capital goods,2023,321000.0,2.6074414283433063
+757,Nidec Corporation,Upstream transportation and distribution,2023,680000.0,2.6454469567708236
+758,Procter & Gamble Company,Purchased goods and services,2020,164210001.0,2.6377020372415725
+759,Scandic Hotels Group,Waste generated in operations,2023,329318.0,2.6457512463534516
+760,Scandic Hotels Group,Purchased goods and services,2016,32884.8,2.523156088190284
+761,Scandic Hotels Group,Upstream transportation and distribution,2016,5054000.0,2.645410317417863
+762,Schindler Holding AG,Purchased goods and services,2023,4311964.0,2.563634194952086
+763,Ushio Inc.,Use of sold products,2023,6919343.0,2.6287966464734462
+764,Yara International ASA,Fuel-and-energy-related activities (not included in Scope 1 or 2),2022,13131842.0,2.530773810894092
+765,Danieli & C Officine Meccaniche S.p.A.,Waste generated in operations,2018,84046.0,2.558355603361492
+766,Danieli & C Officine Meccaniche S.p.A.,Employee commuting,2016,244800.0,2.545760595571936
+767,Danieli & C Officine Meccaniche S.p.A.,Upstream leased assets,2018,208392.0,2.5655701718719235
+768,Hana Financial Group,Capital goods,2018,12306.0,2.643903803604495
+769,Indorama Ventures PCL,Waste generated in operations,2023,229581.0,2.5623096776837095
+770,Foschini Group Ltd,Purchased goods and services,2023,70518.2,2.55734602155383
+771,"EQUINIX, INC.",Waste generated in operations,2019,1447614.0,2.6456601352457714
+772,BECK GROUP - HC BECK,Fuel-and-energy-related activities (not included in Scope 1 or 2),2016,2104.51,2.6255515956789264
+773,FABRICA DE PAPEL E PAPELAO NOSSA SENHORA DA PENHA S/A.,Waste generated in operations,2023,469.67,2.6141216702439043
+774,FABRICA DE PAPEL E PAPELAO NOSSA SENHORA DA PENHA S/A.,Business travel,2018,98500.0,2.645749138352742
+775,Lennox International Inc,Upstream transportation and distribution,2023,217815.0,2.615507915474609
+776,Magellan Financial Group,Business travel,2023,127090.13,2.632017722559286
+777,MarieLaurePLV,Upstream transportation and distribution,2018,6050.0,2.6338447135317624
+778,Axtel,Business travel,2017,844059.0,2.645750634548671
+779,Grant Thornton UK,Purchased goods and services,2023,32588.0,2.632992509993484

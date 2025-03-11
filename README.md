@@ -2,7 +2,7 @@
 ### MSDS 692 S8W1 2025 - Regis University  
 ### 
   
-This repository contains notebooks and a python library associated with work performed during MSDS 692 - Data Science Practicum 1 as a member of Dr. Sorauf's Greenhouse Gas Emissions research group. This project's focus was to acquire and understand new features to incorporate into the existing data which will be used by the team to create models *predicitng the amount of scope 3 greenhouse gas emissions*. Additionally XGBoost and feed-forward neural network models were compared as a baseline for future work within the group. For more details please see my [final presentation](/presentation/Parsons_GHG_MSDS692_v8.pptx).
+This repository contains notebooks, data, and a python library associated with work performed during MSDS 692 - Data Science Practicum 1 as a member of Dr. Sorauf's Greenhouse Gas Emissions research group. This project's focus was to acquire and analyze data associated with new features to incorporate with the group's existing data. This data will be used by the team to create models *predicitng scope 3 greenhouse gas emissions*. Additionally XGBoost and feed-forward neural network models were compared as a baseline for future work within the group. For more details please see my [final presentation](/presentation/Parsons_GHG_MSDS692_v8.pptx).
 
 ### Contents
 
